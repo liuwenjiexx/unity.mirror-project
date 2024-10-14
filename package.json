@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.project.mirror",
+  "displayName": "Mirror Project",
+  "version": "0.0.1-preview-2",
+  "unity": "2020.1",
+  "dependencies": {
+    "com.unity.settings": "0.0.4-preview-7"
+  },
+  "hideInEditor": true,
+  "samples": [],
+  "author": {
+    "name": ""
+  }
+}

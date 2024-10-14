@@ -1,0 +1,19 @@
+{
+    "name": "Project.Mirror.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e734ab96663a503408ecc1a123dcf7d2",
+        "GUID:a2ba6bd5f14751f478081de4b4745709"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
